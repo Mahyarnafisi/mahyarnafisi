@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,figma,ps,git,github,js,react,redux,jest,vstcode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,figma,ps,git,github,js,react,redux,jest,vstcode&perline=20)](https://skillicons.dev)
 
