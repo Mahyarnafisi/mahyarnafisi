@@ -8,5 +8,5 @@
 
 ⚡**Language and Tools**:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,figma,ps,git,github,js,react,redux,jest,vstcode&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,figma,ps,git,github,js,typescript,react,redux,jest,vstcode&perline=20)](https://skillicons.dev)
 
