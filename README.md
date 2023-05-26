@@ -8,5 +8,5 @@
 
 ⚡**Language and Tools**:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,redux,nodejs,express,graphql,mongodb,jest,bootstrap,git,github,vscode,figma,ps&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,typescript,react,redux,nodejs,express,graphql,mongodb,jest,git,github,vscode,figma,ps&perline=20)](https://skillicons.dev)
 
