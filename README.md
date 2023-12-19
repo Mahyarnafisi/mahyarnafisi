@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Mahyar 👋
 
 #### I'm working on something cool 🌞
 
