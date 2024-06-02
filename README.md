@@ -6,6 +6,6 @@
 
 ⚡**Language and Tools**:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,redux,nodejs,express,mongodb,firebase&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,redux,nodejs,express,graphql,apollo,mongodb,firebase&perline=20)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,sass,tailwind,bootstrap,figma,ps&perline=20)](https://skillicons.dev)
 
